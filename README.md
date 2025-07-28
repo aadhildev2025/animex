@@ -16,3 +16,9 @@
 - **HTML5** – For page structure and content
 - **CSS3** – For styling, layout, and responsiveness
 - **JavaScript** – For dynamic behavior and interactivity
+
+## 📬 Contact
+
+**Created by Aadhil**  
+📧aadhildev2025@gmail.com  
+📱  WhatsApp: +94 71 430 4378
